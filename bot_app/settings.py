@@ -32,7 +32,7 @@ SECRET_KEY = 'zo3o$jj39=ya*(dlm*u3=h^@mapu1zy)jftcf207ss_on$yx!t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'fast-brushlands-53092.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'afternoon-bastion-87105.herokuapp.com']
 
 
 # Application definition
